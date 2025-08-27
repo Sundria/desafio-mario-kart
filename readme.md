@@ -101,3 +101,13 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+<br>
+<br>
+<b>Extras:</b>
+<br>
+<br>
+<ul>
+<li><label >Sortear 2 personagens aleatórios para confrontarem entre sí.</label></li>
+<br>
+<li><label >Ter uma pequena chance de ganhar um ponto extra de poder.</label></li>
+</ul>
